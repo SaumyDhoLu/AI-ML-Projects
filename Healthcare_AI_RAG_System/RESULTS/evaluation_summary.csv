@@ -1,0 +1,4 @@
+query,num_documents,avg_similarity,avg_rerank,response_length,processing_time
+What are the latest treatment guidelines for type 2 diabetes management in primary care?,5,0.9772261857986451,4.004908311367035,3466,17.880897760391235
+How should major depressive disorder be treated in elderly patients with multiple comorbidities?,5,0.9781813025474548,1.0378195762634277,4974,25.264870166778564
+What are the current evidence-based protocols for acute myocardial infarction management in emergency departments?,5,0.9821984529495239,-1.8283861875534058,3446,18.35471820831299
